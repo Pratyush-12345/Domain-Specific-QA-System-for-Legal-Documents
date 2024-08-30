@@ -1,4 +1,4 @@
-# Legal Chatbot with Document Processing
+# Domain-Specific QA System for Legal Documents
 
 This project implements a legal chatbot that can answer questions based on uploaded PDF documents. It uses a fine-tuned TinyLlama model for natural language processing and FAISS for efficient document retrieval.
 
